@@ -40,7 +40,8 @@ This structure separates data by processing stage, enabling clear data lineage t
 
 **📸 Screenshot: S3 Bucket Structure**
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-10 171443" src="https://github.com/user-attachments/assets/8bf20e26-8b09-4bc2-8f38-be1e2cc75c22" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95d66dc8-5685-43ea-8751-4a8b414df618" />
+
 
 
 *Screenshot shows the three folders (raw, processed, enriched) in the S3 bucket*
@@ -345,8 +346,8 @@ Accessed via: `http://[EC2-PUBLIC-IP]:5000`
 
 **📸 Screenshot: Final Webpage Dashboard**
 
+<img width="1920" height="965" alt="Screenshot 2025-11-10 204153" src="https://github.com/user-attachments/assets/b5729ba4-527e-4f0d-9e20-f71e5328ec5e" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-10 204153" src="https://github.com/user-attachments/assets/8aa1af5a-bd08-412f-9478-2d49b310b747" />
 
 *Screenshot shows the browser displaying "📊 Athena Orders Dashboard" with all 5 query results rendered as HTML tables*
 
